@@ -1,2 +1,3 @@
-syntax/markdown.vim
+ftdetect/markdown.vim
 snippets/markdown.snippets
+syntax/markdown.vim

@@ -29,12 +29,6 @@ Or
 
 This instruction will be create a Vimball file and install.
 
-Updates your `.vimrc` file with:
-
-    autocmd BufNewFile,BufRead *.{md,mld,mark,markdown} set filetype=markdown
-
-This will make the syntax works.
-
 Information
 -----------
 
@@ -44,8 +38,8 @@ You maybe contributes to source. So, send a feedback in [issue tracker][].
 
 Vim-Markdown is hosted on following servers:
 
-* [Github (original)](http://github.com/plasticboy/vim-markdown/)
-* [Github (fork)](http://github.com/hallison/vim-markdown)
+* [Github (original source)](http://github.com/plasticboy/vim-markdown/)
+* [Github (fork project)](http://github.com/hallison/vim-markdown)
 * [Codaset](http://codaset.com/hallison/vim-markdown)
 
 Visit the [script homepage][] for more information.
@@ -53,7 +47,7 @@ Visit the [script homepage][] for more information.
 Copyright
 ---------
 
-Copyright (c) 2009 Hallison Batista <email@hallisonbatista.com>
+Copyright (c) 2010 Hallison Batista <email@hallisonbatista.com>
 
 Copyright (c) 2009 Ben Williams <benw@plasticboy.com>
 
